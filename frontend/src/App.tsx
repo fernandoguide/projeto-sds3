@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   return (
     <div>
-          SALVE SDS3
+         <h1 className="text-primary">SALVE SDS3</h1> 
     </div>
   );
 }
